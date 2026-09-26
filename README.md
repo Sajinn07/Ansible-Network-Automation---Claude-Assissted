@@ -7,12 +7,14 @@
 -VMWare Workstation
 
 ## Topology
+<img width="444" height="129" alt="lab" src="https://github.com/user-attachments/assets/fbc5fb4d-b4d1-4ea0-bb3a-aa4d8dfbc939" />
+
+## Ansible Inventory
 <img width="1105" height="597" alt="Screenshot 2026-09-26 124515" src="https://github.com/user-attachments/assets/e41567be-1dd5-4d33-b228-6aa802059e2d" />
 
-##
+## Ansible Automation Code
 <img width="1104" height="602" alt="Screenshot 2026-09-26 124541" src="https://github.com/user-attachments/assets/148c71be-db9d-4d07-9b5d-de36bedd02f7" />
-##
-<img width="444" height="129" alt="lab" src="https://github.com/user-attachments/assets/fbc5fb4d-b4d1-4ea0-bb3a-aa4d8dfbc939" />
+
 ##
 <img width="886" height="659" alt="Screenshot 2026-09-26 125906" src="https://github.com/user-attachments/assets/77970a30-5812-49c3-981e-e941a5f71242" />
 
