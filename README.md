@@ -2,8 +2,11 @@
 ## Tools used
 
 -Claude
+
 -Ansible (WSL Ubuntu)
+
 -GNS3
+
 -VMWare Workstation
 
 ## Topology
