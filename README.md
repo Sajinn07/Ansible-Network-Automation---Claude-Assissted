@@ -1,4 +1,9 @@
 # Ansible-Network-Automation---Claude-Assissted
+
+## About
+
+An experimental Ansible automation topology for troubleshooting IP connectivity in a fully virtual enviornment assissted by Claude.
+
 ## Tools used
 
 -Claude
